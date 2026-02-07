@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "名前なんて",
+  "base_artist": "Waslie",
+  "createdAt": "2026-02-07T15:16:01.967065Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "名前なんて",
+      "artist": "Waslie",
+      "has_synced": false,
+      "path": "select/pl_01_名前なんて_Waslie.txt"
+    }
+  ]
+}
